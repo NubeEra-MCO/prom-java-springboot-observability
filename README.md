@@ -1,7 +1,8 @@
 # Hello Observability
 Simple [Spring Boot](https://spring.io/guides/gs/spring-boot) application to demonstrate collecting and correlating logs, metrics and traces with [Prometheus](https://prometheus.io/), [OpenTelemetry](https://opentelemetry.io/), and [Grafana Cloud](https://grafana.com/products/cloud/). It is built using [Maven](https://spring.io/guides/gs/maven/). 
-
+<!--
 Refer to this [documentation](https://docs.google.com/document/d/1uU9BbLH3OrBRLPAOQyQ5W2MeeTup5F2m2x1Qs4QGsnA/edit?usp=sharing) for details.
+-->
 
 To just see the application in action, you can build a jar file and run it from the command line.
 
